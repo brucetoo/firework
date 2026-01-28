@@ -1,0 +1,5 @@
+{
+  "name": "BigData Dashboard",
+  "description": "A real-time data dashboard with realistic flip-clock countdown, rolling number animations, and canvas-based particle fireworks.",
+  "requestFramePermissions": []
+}
